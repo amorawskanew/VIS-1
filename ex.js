@@ -15,4 +15,6 @@ function Circle(radius) {
         console.log('draw');
     }; 
 }
-
+function setup(){
+    createCanvas(400,400);
+}
